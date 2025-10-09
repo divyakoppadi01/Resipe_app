@@ -46,3 +46,4 @@ export const RecipeCard = StyleSheet.create({
     marginBottom: 5
   }
 });
+
